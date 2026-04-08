@@ -67,6 +67,17 @@ Currently working on a **customer service management platform** handling **600,0
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Yup-0A0A0A?style=for-the-badge" />
+</p>
+
+### Backend & Runtime
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Elysia-5A29E4?style=for-the-badge" />
 </p>
 
 ### Mobile
@@ -92,8 +103,8 @@ Currently working on a **customer service management platform** handling **600,0
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RenatoGarciaLopes&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoGarciaLopes&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -114,4 +125,3 @@ I enjoy building systems that **actually scale in real-world scenarios** 🚀
 <p align="center">
   ⭐ Feel free to explore my repositories and connect!
 </p>
-# RenatoGarciaLopes
