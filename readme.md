@@ -65,10 +65,10 @@ Currently working on a **customer service management platform** handling **600,0
 
 <p>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Yup-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yup-0A0A0A?style=for-the-badge&logo=yup&logoColor=white" />
 </p>
 
 ### Backend & Runtime
@@ -76,8 +76,8 @@ Currently working on a **customer service management platform** handling **600,0
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Elysia-5A29E4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elysia-5A29E4?style=for-the-badge&logo=elysia&logoColor=white" />
 </p>
 
 ### Mobile
@@ -90,12 +90,12 @@ Currently working on a **customer service management platform** handling **600,0
 ### Tools & Practices
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier" />
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=kanban&logoColor=white" />
 </p>
 
 ---
@@ -103,8 +103,8 @@ Currently working on a **customer service management platform** handling **600,0
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RenatoGarciaLopes&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoGarciaLopes&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="195" alt="Estatísticas do GitHub de RenatoGarciaLopes" src="https://readme-stats-fast.vercel.app/api?username=RenatoGarciaLopes&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="195" alt="Linguagens mais usadas no GitHub" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=RenatoGarciaLopes&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
