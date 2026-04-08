@@ -54,11 +54,12 @@ Currently working on a **customer service management platform** handling **600,0
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite" />
-  <img src="https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### State & Data
@@ -103,7 +104,7 @@ Currently working on a **customer service management platform** handling **600,0
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="195" alt="Estatísticas do GitHub de RenatoGarciaLopes" src="https://readme-stats-fast.vercel.app/api?username=RenatoGarciaLopes&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="195" alt="Estatísticas do GitHub de RenatoGarciaLopes" src="https://readme-stats-fast.vercel.app/api?username=RenatoGarciaLopes&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" />
   <img height="195" alt="Linguagens mais usadas no GitHub" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=RenatoGarciaLopes&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
